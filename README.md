@@ -1,2 +1,2 @@
-# shinygang.github.io
-唐岗个人主站
+# shinygang
+shinygang个人网站运行环境
