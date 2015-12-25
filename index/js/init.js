@@ -1,0 +1,1 @@
+window.onload=function(){document.body.className=""},window.ontouchmove=function(){return!1},window.onorientationchange=function(){document.body.scrollTop=0};
